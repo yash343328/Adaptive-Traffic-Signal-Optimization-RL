@@ -72,10 +72,10 @@ Designed as a **research-grade project**, this system demonstrates how Reinforce
 
 ## 📂 Project Structure
 
-
+```bash
 ├── AdaptiveTrafficRL.jl      # Main simulation engine
 ├── README.md                 # Project documentation
-
+```
 ---
 
 ## 🚀 Installation
